@@ -2,8 +2,8 @@
 Welcome to the SoundScape Headphone Landing Page! This folder contains the HTML and CSS code for a modern and responsive landing page designed to showcase the premium headphones offered by SoundScape.
 
 ## Preview
-[!Screenshot](Images/Screenshot1.png)
-[!Screenshot](Images/Screenshot2.png)
+[!Screenshot](Screenshot1.png)
+[!Screenshot](Screenshot2.png)
 
 ## Features
 - **Navigation Bar**: A sleek and responsive navigation bar allows easy navigation throughout the website. Active links are visually highlighted.
